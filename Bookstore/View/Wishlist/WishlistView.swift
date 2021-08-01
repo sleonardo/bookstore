@@ -20,7 +20,7 @@ struct WishlistView: View {
                     print("some")
                 }
                 Spacer()
-                Text(Localizable.lblNotImplemented.localized())
+                Text(Localizable.tabBarTitleWishlist.localized())
                 Spacer()
                 
             }

@@ -14,12 +14,12 @@
 "nav-title-library" = "Library";
 "nav-title-bookDetail" = "Book detail";
 "nav-title-wishlist" = "Wishlist";
-"nav-title-suggest" = "suggest";
+"nav-title-suggest" = "Suggest";
 "nav-title-rentals" = "Rentals";
 
 "tabBar-title-library" = "Library";
 "tabBar-title-wishlist" = "Wishlist";
-"tabBar-title-suggest" = "suggest";
+"tabBar-title-suggest" = "Suggest";
 "tabBar-title-rentals" = "Rentals";
 
 "lbl-note-wolox" = "Designed, developed and used by woloxes";

@@ -1,13 +1,13 @@
 //
-//  RentalsView.swift
+//  SuggestView.swift
 //  Bookstore
 //
-//  Created by Leonardo Simoza on 24/07/21.
+//  Created by Leonardo Simoza on 31/07/21.
 //
 
 import SwiftUI
 
-struct RentalsView: View {
+struct SuggestView: View {
     @EnvironmentObject var navigation: NavigationStack
     
     var body: some View {
@@ -19,7 +19,7 @@ struct RentalsView: View {
                     print("some")
                 }
                 Spacer()
-                Text(Localizable.tabBarTitleRentals.localized())
+                Text(Localizable.tabBarTitleSuggest.localized())
                 Spacer()
                 
             }
@@ -28,9 +28,8 @@ struct RentalsView: View {
     }
 }
 
-struct RentalsView_Previews: PreviewProvider {
+struct SuggestView_Previews: PreviewProvider {
     static var previews: some View {
-        RentalsView()
+        SuggestView()
     }
 }
-

@@ -31,7 +31,7 @@ private extension TabMainView {
                     WishlistView()
                         .tabItem(tab.title, imageName: tab.imageName, index: tab.id, selection: $tabViewModel.selected)
                 case .suggest:
-                    RentalsView()
+                    SuggestView()
                         .tabItem(tab.title, imageName: tab.imageName, index: tab.id, selection: $tabViewModel.selected)
                 case .rentals:
                     RentalsView()
