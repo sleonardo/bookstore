@@ -1,0 +1,44 @@
+{
+  "configurations" : [
+    {
+      "id" : "37B9014F-2A18-4779-B2F2-3DD12456892C",
+      "name" : "English",
+      "options" : {
+        "language" : "en"
+      }
+    },
+    {
+      "id" : "200DCE82-7655-47B2-ADA1-E045F9365117",
+      "name" : "Spanish",
+      "options" : {
+        "language" : "es"
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Bookstore.xcodeproj",
+      "identifier" : "12A91D0426A3B09500D738AD",
+      "name" : "Bookstore"
+    },
+    "userAttachmentLifetime" : "keepAlways"
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Bookstore.xcodeproj",
+        "identifier" : "12A91D1526A3B09600D738AD",
+        "name" : "BookstoreTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:Bookstore.xcodeproj",
+        "identifier" : "12A91D2026A3B09600D738AD",
+        "name" : "BookstoreUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

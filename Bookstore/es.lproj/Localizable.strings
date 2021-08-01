@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  Bookstore
+
+  Created by Leonardo Simoza on 17/07/21.
+  
+*/
+
+"btn-signIn" = "Ingresar con Google";
+"btn-add-wishlist" = "Añadir en deseados";
+"btn-rent" = "Alquiler";
+"btn-viewAll" = "Ver Todos";
+
+"nav-title-library" = "Librería";
+"nav-title-bookDetail" = "Detalle del libro";
+"nav-title-wishlist" = "Lista de Deseos";
+"nav-title-suggest" = "Sugerencia";
+"nav-title-rentals" = "Alquileres";
+
+"tabBar-title-library" = "Librería";
+"tabBar-title-wishlist" = "Lista de Deseos";
+"tabBar-title-suggest" = "Sugerencia";
+"tabBar-title-rentals" = "Alquileres";
+
+"lbl-note-wolox" = "Designed, developed and used by woloxes";
+"lbl-search-books" = "¡Encuentra tus escritores y libros favoritos!";
+"lbl-search" = "Buscar en Wbooks";
+"lbl-not-implemented" = "No se ha implementado";

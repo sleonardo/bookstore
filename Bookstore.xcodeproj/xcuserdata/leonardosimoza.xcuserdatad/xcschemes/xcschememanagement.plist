@@ -6,8 +6,28 @@
 	<dict>
 		<key>Bookstore.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>12A91D0426A3B09500D738AD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>12A91D1526A3B09600D738AD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>12A91D2026A3B09600D738AD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

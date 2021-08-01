@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in BookstoreService.fetchBooks(completion:):BookstoreService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #1 in BookDetailView.detailView.getter:BookDetailView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "bookstoreViewModel.selectedBook!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BookstoreService.fetchBooks():BookstoreService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Endpoint.books">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BookstoreUITests.testBTappingLoginButton():BookstoreUITests.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #3 in closure #1 in closure #1 in BookDetailView.detailView.getter:BookDetailView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "book.status.lowercased().isEqual(&quot;unavailable&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "book.status.lowercased().compare(&quot;Unavailable&quot;).rawValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BookstoreUITests.testEPressCellToDetailView():BookstoreUITests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "app.grids.cells">
+            </PersistentString>
+            <PersistentString
+               value = "app.tables.cells.staticTexts[&quot;cellBook&quot;].firstMatch">
+            </PersistentString>
+            <PersistentString
+               value = "app.tables.cells">
+            </PersistentString>
+            <PersistentString
+               value = "app.grids.cells.firstMatch">
+            </PersistentString>
+            <PersistentString
+               value = "app.tables.cells.staticTexts[&quot;cellBook&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #1 in BookstoreView.dataList.getter:BookstoreView.swift">
+      </ContextState>
+      <ContextState
+         contextName = "BookstoreView.dataList.getter:BookstoreView.swift">
+      </ContextState>
+      <ContextState
+         contextName = "BookstoreUITests.testExample():BookstoreUITests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "app.buttons">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in BookstoreViewModel.fetchBooks():BookstoreViewModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in APISession.request&lt;&#x3c4;_0_0&gt;(with:):APISession.swift">
+      </ContextState>
+      <ContextState
+         contextName = "BookstoreUITests.testFPressCellToDetailView():BookstoreUITests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "formatter.string(from: Date().timeIntervalSince1970)">
+            </PersistentString>
+            <PersistentString
+               value = "Date().timeIntervalSince1970">
+            </PersistentString>
+            <PersistentString
+               value = "utcISODateFormatter.string(from: Date())">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in BookstoreViewModel.fetchBooks():BookstoreViewModel.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
